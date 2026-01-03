@@ -10,12 +10,9 @@ public class LargestNumSearch {
 		}
 		return max;
 	}
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr= {10,6,7,20};
 		System.out.println(findLargest(arr));
-
 	}
-
 }

@@ -1,0 +1,56 @@
+# ===== Java =====
+**/bin/
+*.class
+*.log
+*.ctxt
+hs_err_pid*
+
+# ===== Maven =====
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# ===== Gradle =====
+.gradle/
+build/
+
+# ===== IDEs =====
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Node / React =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+
+# ===== Environment files =====
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===== Spring Boot =====
+application-*.yml
+application-*.properties
+
+# ===== Logs =====
+logs/
+*.log
