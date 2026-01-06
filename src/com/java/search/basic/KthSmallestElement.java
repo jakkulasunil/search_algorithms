@@ -16,7 +16,6 @@ public class KthSmallestElement {
 			}
 		}
 		Collections.sort(arr);
-
 		return arr.get(k-1);
 	}
 
