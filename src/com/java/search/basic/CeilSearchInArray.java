@@ -1,5 +1,6 @@
 package com.java.search.basic;
 
+//Ceil Search
 public class CeilSearchInArray {
 
 	static int ceilSearch(int[] arr, int x) {
